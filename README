@@ -1,0 +1,16 @@
+$printconfig
+============================================
+PLATFORM_VERSION_CODENAME=REL
+PLATFORM_VERSION=2.2.2
+TARGET_PRODUCT=generic
+TARGET_BUILD_VARIANT=eng
+TARGET_SIMULATOR=false
+TARGET_BUILD_TYPE=release
+TARGET_BUILD_APPS=
+TARGET_ARCH=arm
+HOST_ARCH=x86
+HOST_OS=linux
+HOST_BUILD_TYPE=release
+BUILD_ID=FRG83G
+============================================
+show you what the binder real is.
